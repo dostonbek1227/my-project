@@ -3,7 +3,7 @@ import React from "react";
 export default function Card() {
   return (
     <div className="parfyum">
-      <img src="../public/img/card img.png" alt="" />
+      <img src="./img/card-img.png" alt="" />
       <p>The devil is a loser by Mushfig</p>
       <p>Объем мл.</p>
       <div className="tugmalar">
